@@ -1,0 +1,177 @@
+body {
+  background-image: url("../img/background.png");
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: #5B5E5E;
+  font-family: Arvo;
+  font-weight: bold;
+}
+
+h2 {
+  text-align: center;
+  font-size: 20px;
+  color: #5B5E5E;
+  font-family: Arvo;
+  font-weight: bold;
+}
+
+h4 {
+  text-align: right;
+  color: #5B5E5E;
+}
+
+p {
+  text-align: center;
+}
+
+@font-face {
+  font-family: 'Arvo';
+  src: url("../arvo/Arvo-Regular.ttf");
+}
+
+.nav-pills {
+  background-color: white;
+  border: 1px solid #F6AC18;
+  height: 50px;
+}
+
+li, a {
+  color: #F6AC18;
+}
+
+.nom {
+  text-align: center;
+  background-color: white;
+  margin-top: 25px;
+  border-bottom: 2px solid #F6AC18;
+}
+
+.intro {
+  font-family: Arvo;
+  text-align: center;
+  color: #F6AC18;
+  padding-left: 2.5em;
+  padding-right: 2.5em;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.about {
+  background-color: white;
+}
+
+.skill {
+  background-color: white;
+}
+
+.experience {
+  background-color: white;
+}
+
+.formation {
+  background-color: white;
+}
+
+.p1 {
+  background-color: white;
+  border-right: 1px solid #F6AC18;
+  border-left: 1px solid #F6AC18;
+  /*height: 230px;*/
+  padding-top: 25px;
+}
+
+.p2 {
+  background-color: white;
+  /*height: 230px;*/
+  padding-top: 20px;
+}
+
+.p3 {
+  background-color: white;
+  border-right: 1px solid #F6AC18;
+  height: 150px;
+}
+
+.p4 {
+  background-color: white;
+  border-left: 1px solid #F6AC18;
+  /*height: 314px;*/
+}
+
+.p5 {
+  background-color: white;
+  border-left: 1px solid #F6AC18;
+  /*height: 250px;*/
+}
+
+.p6 {
+  background-color: white;
+  border-left: 1px solid #F6AC18;
+  /*height: 150px;*/
+  padding-top: 25px;
+}
+
+.text-contact{
+  font-size: 13px;
+  color : #F6AC18;
+}
+
+.bar {
+  padding-top: 25px;
+}
+
+.img-about {
+  border-radius: 200px;
+  margin-left: 2em;
+  float: left;
+  width:100px;
+  height:100px;
+  margin-right: 15px;
+}
+
+.progress-bar {
+  clear: both;
+}
+
+.text-orange {
+  color: #F6AC18;
+  text-align: right;
+}
+
+.text {
+  padding-top: 12px;
+  text-align: justify;
+}
+
+.period {
+background-color: #F6AC18;
+color: white;
+position: inherit;
+height: 16px;
+width: 150px;
+text-align: center;
+font-weight: bold;
+font-size: 13px;
+}
+
+.active {
+  margin-top: 3px;
+}
+
+.period,
+span {
+  margin-top: 15px;
+}
+
+ul,
+li {
+  display: inline;
+}
+
+.progress-bar {
+  background-color: grey;
+}
